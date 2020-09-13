@@ -1,14 +1,10 @@
 <h1 align="center"> Hi 👋, I'm Rishav Ray</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">An aspiring Data Scientist from India</h3>
 <p align="center"><a href="https://www.linkedin.com/in/rishavray/"><img src="https://github.com/theRay07/theRay07.github.io/blob/master/img/linkedin.png" alt="rishavray"/> </p>
   
-<h3>💬 Ask me about Machine Learning, Deep Learning, Computer Vision, NLP</h3>
-<h3>📫 How to reach me: rishavray29@gmail.com</h3>
+<h4>💬 Ask me about Machine Learning, Deep Learning, Computer Vision, NLP</h4>
+<h4>📫 How to reach me: rishavray29@gmail.com</h4>
+<h4>🌱 I’m currently learning best practices in business application of Data Science.</h4>
+<h4>🔭 I’m currently working at OkCredit</h4>
+<h4>⚡ Fun fact: I love Basketball</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
