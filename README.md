@@ -1,7 +1,8 @@
 <h1 align="center"> Hi 👋, I'm Rishav Ray</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <p align="center"><a href="https://www.linkedin.com/in/rishavray/"><img src="https://github.com/theRay07/theRay07.github.io/blob/master/img/linkedin.png" alt="rishavray"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:rishavray29@gmail.com"><img src="https://github.com/theRay07/theRay07.github.io/blob/master/img/mail.png" alt="rishavray29@gmail.com"/> </p>
-💬 Ask me about Machine Learning, Deep Learning, Computer Vision, NLP
+  
+<h3>💬 Ask me about Machine Learning, Deep Learning, Computer Vision, NLP</h3>
 
 
 - 🔭 I’m currently working on ...
