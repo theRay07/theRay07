@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋, I'm Rishav Ray</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<p align="center"><img src="https://github.com/theRay07/theRay07.github.io/blob/master/img/linkedin.png" alt="https://www.linkedin.com/in/rishavray/"/> </p>
+<p align="center"><img src="https://github.com/theRay07/theRay07.github.io/blob/master/img/linkedin.png" alt="https://www.linkedin.com/in/rishavray/"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/theRay07/theRay07.github.io/blob/master/img/mail.png" alt="mailto:rishavray29@gmail.com"/> </p>
 💬 Ask me about Machine Learning, Deep Learning, Computer Vision, NLP
 
 
